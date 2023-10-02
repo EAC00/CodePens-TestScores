@@ -1,0 +1,30 @@
+:root{
+    background-color: black;
+}
+
+
+head
+{
+  text-align: center;
+  color: gold;
+  text-shadow: 2px 2px 2px white;
+}
+
+h1 {
+  text-align: center;
+  color: gold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-shadow: 3px 3px 3px white;
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
+  color: gold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+  background-color: gold;
+  color: black;
+}
